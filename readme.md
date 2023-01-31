@@ -27,12 +27,21 @@ Observação: é importante verificar a documentação da API para saber quais s
 Exemplo:
 
 {
+
 "id": 2,
+
 "name": "Maria Souza",
+
 "cpf": "22222222222",
+
 "rg": "222222222",
+
 "dataNascimento": "1995-05-20T00:01:01.000Z",
+
 "estadoCivil": "casado",
+
 "telefone": "999999999",
+
 "email": "maria.souza@email.com"
+
 }
