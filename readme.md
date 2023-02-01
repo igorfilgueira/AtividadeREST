@@ -11,14 +11,24 @@ Adicione as dependências do Postman ao seu projeto, utilizando o arquivo pom.xm
 Crie um arquivo JSON com os dados que deseja enviar para a API. Por exemplo:
 
 {
+
 "id": 1,
+
+
 "name": "João Maria",
+
 "cpf": "65453476891",
+
 "rg": "234576459",
+
 "dataNascimento": "1995-05-20T00:01:01.000Z",
+
 "estadoCivil": "casado",
+
 "telefone": "999999999",
+
 "email": "joao@email.com"
+
 }
 
 Utilize o método POST do Postman para enviar o arquivo JSON para a API.
